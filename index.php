@@ -13,6 +13,7 @@
             echo "Hello, " . htmlspecialchars($ip);
             ?>
         </h1>
+        <h1>this site is still under construstion, i am using it to practice php</h1>
     </header>
 </body>
 </html>
