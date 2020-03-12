@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Jarmo.io</title>
 </head>
 <body>
-<p>this site is under constuction</p>
+<?php echo "<p>this site is under constuction</p>" ?>
 </body>
 </html>
